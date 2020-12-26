@@ -1,0 +1,1 @@
+console.log('哈哈哈我是js');
